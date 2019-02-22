@@ -3,3 +3,4 @@ autopush
 def.cpp
 *.in
 *.out
+.*

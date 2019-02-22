@@ -9,14 +9,14 @@ Omega Kattis Problem
 - [X] [kattis mosquito](https://open.kattis.com/problems/mosquito)
 - [X] [kattis statistics](https://open.kattis.com/problems/statistics)
 - [X] [kattis armystrengthhard](https://open.kattis.com/problems/armystrengthhard)
-- [ ] [kattis battlesimulation](https://open.kattis.com/problems/battlesimulation)
-- [ ] [kattis fastfood](https://open.kattis.com/problems/fastfood)
+- [X] [kattis battlesimulation](https://open.kattis.com/problems/battlesimulation)
+- [X] [kattis fastfood](https://open.kattis.com/problems/fastfood)
 
 ## 1.4 Getting Started: The Easy Problems
 - [X] [kattis bela](https://open.kattis.com/problems/bela)
 - [X] [kattis karte](https://open.kattis.com/problems/karte)
-- [ ] [kattis shuffling](https://open.kattis.com/problems/shuffling)
-- [ ] [kattis chess](https://open.kattis.com/problems/chess)
+- [X] [kattis shuffling](https://open.kattis.com/problems/shuffling)
+- [X] [kattis chess](https://open.kattis.com/problems/chess)
 - [ ] [kattis empleh](https://open.kattis.com/problems/empleh)
 - [ ] [kattis helpme](https://open.kattis.com/problems/helpme)
 - [ ] [kattis connectthedots](https://open.kattis.com/problems/connectthedots)
@@ -43,12 +43,12 @@ Omega Kattis Problem
 
 # Ch2. Data Structures and Libraries
 ## 2.2 Linear DS with Built-in Libraries
-- [ ] [kattis baloni](https://open.kattis.com/problems/baloni)
-- [ ] [kattis downtime](https://open.kattis.com/problems/downtime)
+- [X] [kattis baloni](https://open.kattis.com/problems/baloni)
+- [X] [kattis downtime](https://open.kattis.com/problems/downtime)
 - [X] [kattis pivot](https://open.kattis.com/problems/pivot)
-- [ ] [kattis flowshop](https://open.kattis.com/problems/flowshop)
-- [ ] [kattis funhouse](https://open.kattis.com/problems/funhouse)
-- [ ] [kattis rings2](https://open.kattis.com/problems/rings2)
+- [X] [kattis flowshop](https://open.kattis.com/problems/flowshop)
+- [X] [kattis funhouse](https://open.kattis.com/problems/funhouse)
+- [X] [kattis rings2](https://open.kattis.com/problems/rings2)
 - [X] [kattis cups](https://open.kattis.com/problems/cups)
 - [X] [kattis lineup](https://open.kattis.com/problems/lineup)
 - [X] [kattis sidewayssorting](https://open.kattis.com/problems/sidewayssorting)
@@ -771,4 +771,3 @@ Omega Kattis Problem
 - [ ] [kattis yinyangstones](https://open.kattis.com/problems/yinyangstones)
 - [X] [kattis zamka](https://open.kattis.com/problems/zamka)
 - [X] [kattis zanzibar](https://open.kattis.com/problems/zanzibar)
-
